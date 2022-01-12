@@ -6,5 +6,5 @@
 
 **사용 기술 : Face Image Classification + Hand Pose Estimation + Web Service**
 
-**[상세 설명 PDF]()**
+**[상세 설명 PDF](https://github.com/Sejong-AI-Perfumer/2021_Fall_Semester/blob/main/Project-Introduction.pdf)**
 
