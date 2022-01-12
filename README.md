@@ -1,20 +1,10 @@
-## 2021_Fall_Semester
+## Sejong University Creative Fall Semester
 
-|week|Contents|
-|:--:|:--:|
-|1|방학 때 작업한 내용 정리|
-|2|데이터셋 조정(6가지로 축소, 성별 분리, 객관성 확보)|
-|3|image classification 모델 구축 및 학습|
-|4|image classification 모델 구축 및 학습|
-|5|실시간 웹캠 영상에서 얼굴위주만 캡쳐해서 모델에 태우는 것 구현|
-|6||
-|7|중간고사 대비 기간|
-|8|중간고사|
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15|기말고사 대비 기간|
-|16|기말고사|
+**기간 : 2021.08.30 ~ 2021.12.10**
+
+**주제 : 컴퓨터 비전 기술을 이용한 얼굴 이미지 분석 및 향수 추천 시스템**
+
+**사용 기술 : Face Image Classification + Hand Pose Estimation + Web Service**
+
+**[상세 설명 PDF]()**
+
